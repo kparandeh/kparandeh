@@ -8,7 +8,7 @@ I hold dual BSc degrees from York University (in Kinesiology and Biomedical Scie
 
 ## Current Focus
 
-I primarily work with open data from the City of Toronto, with a special focus on datasets related to Toronto Fire Services. My projects aim to provide actionable insights that can improve fire safety measures, optimize resource allocation, and enhance overall public safety.
+I primarily work with open data from the City of Toronto, with a special focus on datasets related to Toronto Fire Services and Toronto Police Services. My projects aim to provide actionable insights that can improve fire safety measures, optimize resource allocation, and enhance overall public safety.
 
 ## Skills and Tools
 
